@@ -89,7 +89,7 @@ RunService:BindToRenderStep("AimLock", 0, function()
     loadstring(game:HttpGet("https://paste.ee/r/DstYB"))()
         
     else
-setclipboard("https://www.roblox.com/groups/16298833/synx-clothes#!/about")
+setclipboard("https://www.roblox.com/groups/16828582/Portals-World#!/about")
 wait(1)
 game.Players.LocalPlayer:Kick("Join the group to use the script, the link was copied to your clipboard!")
         end
